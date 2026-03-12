@@ -14,6 +14,8 @@ struct Demo05RefreshList {
       .textAlign(TextAlign.Center)
   }
 
+  //为什么git没有提交记录呢？？？
+
   build() {
     Column() {
       Refresh({
